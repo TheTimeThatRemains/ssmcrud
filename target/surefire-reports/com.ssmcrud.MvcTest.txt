@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ssmcrud.MvcTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.667 s <<< FAILURE! - in com.ssmcrud.MvcTest
+testPage(com.ssmcrud.MvcTest)  Time elapsed: 0.762 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ssmcrud.MvcTest.testPage(MvcTest.java:50)
+
